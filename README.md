@@ -47,7 +47,14 @@ It focuses on clarity, accessibility, and safety.
 - Flask
 - REST API (JSON-based communication)
 
----
+## ⚙️ How It Works
 
-## 📂 Project Structure
+1. User opens the homepage
+2. Clicks **Get Started**
+3. Pastes or uploads a medical report (text / PDF / image)
+4. Backend analyzes the report
+5. Simplified explanation is generated
+6. User can listen to the explanation using text-to-speech
+
+---
 
